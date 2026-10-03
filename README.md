@@ -8,7 +8,7 @@ Instead of simply returning a **True / False** classification, TruthBeacon aims 
 
 ---
 
-## 🎯 Problem
+## 🎯 Problem 
 
 With the rapid growth of social media, messaging platforms, online news, and AI-generated content, misinformation can spread rapidly.
 
